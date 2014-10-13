@@ -9,7 +9,7 @@ Ruby 2.1.2
 
 Requirements
 ------------
-- Save a copy of the chrome executable file available [here](http://chromedriver.storage.googleapis.com/index.html) to any location in your $PATH
+Save a copy of the chrome executable file available [here](http://chromedriver.storage.googleapis.com/index.html) to any location in your $PATH
 
 Usage
 -----
