@@ -1,1 +1,3 @@
-gem 'selenium-webdriver'
+source 'https://rubygems.org'
+
+gem'selenium-webdriver'
