@@ -1,7 +1,9 @@
 Screenshoot Tool
 ================
 
-Takes a screenshot of a specified trello board at specified intervals. Useful for making a timelapse of projects as they are completed
+Takes a screenshot of a specified trello board at specified intervals. Useful for making a timelapse of projects as they are completed.
+
+Please excuse lack of testing - I was just playing around with an idea!
 
 Technologies
 ------------
