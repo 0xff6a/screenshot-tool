@@ -13,5 +13,7 @@ Usage
   $ bundle
   $ ruby main.rb [trello url] [interval between shots (s)]
 ```
-
-[e.g ruby main.rb https://trello.com/b/L5A4RxlK/bunch 100]
+**Example**
+```shell
+ruby main.rb https://trello.com/b/L5A4RxlK/bunch 100
+```
